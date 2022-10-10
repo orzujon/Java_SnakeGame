@@ -7,3 +7,13 @@ During building this game the most challenge was setting the start location of t
 Things to improve the game. To set different levels of snake game. For example if the user gets 10 score and the speed of the snake will increase. 
 Scenario 2: at the beginning of the game the speed of the snake can be asked from the user as the level of the game beginner, intermediate, or advanced. Relatively speed will be slow, medium and fast. 
 Scenario 3: The walls in the game can differ depeding on the score level. If the user hits the 10 score the walls of the game will differ. Like the snake will move to another room. 
+![Snake_Welcome](https://user-images.githubusercontent.com/100639316/194836581-802ac493-eed0-4f0c-8d2d-b7d17626f393.PNG)
+This is a welcome Page in Snake Game
+
+Snake is controlled by keyboard Arrow keys and moves according to directions 
+![Game_On](https://user-images.githubusercontent.com/100639316/194836648-09c3e8ca-7ec9-4c6d-b99a-bdd70b92801c.PNG)
+
+If the collision happened The Game Over Page will appear 
+![Game_Over](https://user-images.githubusercontent.com/100639316/194836819-019f74ac-4729-4e57-9731-571f03ed0f8c.PNG)
+
+If the user wants to play longer they can restart the game and carry on from zero 
