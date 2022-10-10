@@ -18,4 +18,4 @@ Snake is controlled by keyboard Arrow keys and moves according to directions
 If the collision happened The Game Over Page will appear 
 ![Game_Over](https://user-images.githubusercontent.com/100639316/194836819-019f74ac-4729-4e57-9731-571f03ed0f8c.PNG)
 
-If the user wants to play longer they can restart the game and carry on from zero 
+If the user wants to play longer they can restart the game and carry on from zero.
